@@ -1,0 +1,2 @@
+C:\Users\rodri\Downloads\L14RBS1132223\L14RBS1132223\obj\Debug\L14RBS1132223.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\L14RBS1132223\L14RBS1132223\obj\Debug\L14RBS1132223.csproj.CoreCompileInputs.cache
